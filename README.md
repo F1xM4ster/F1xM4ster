@@ -1,9 +1,11 @@
-### 👋 Hi, I’m Faz (F1xM4ster)  
+### 👋 Hi, I’m Yas (F1xM4ster)  
 🔍 **Security Enthusiast** | 🐞 **Bug Hunter** | 🌱 **Knowledge Seeker**  
 
 *"Flaws exist to teach us, not to shame us."*  
 
 **What I’m about:**  
+- 🔍 **Exploring** the depths of documentation untuk cari *the "why" behind the "how"*.  
+- 📢 **Berkongsi** ilmu – karena *knowledge grows when shared*.
 - 🛠️ **Membaiki** vulnerabilities karena sistem yang secure hak semua orang.  
 - 🔍 **Learning in public** – dokumentasi perjalanan hacking & secure coding [di sini]  (https://...).  (coming soon)
 - 🤝 **Kolaborasi > kompetisi** – aku percaya komuniti kuat bila kita saling bantu.  
@@ -21,16 +23,6 @@
 - **Dream Setup**: *Dark mode IDE* + playlist lofi hip-hop.
 
 ---
-
-
-
-
----
-
-
-
-
-
 ### 🙏 **Credits Where It’s Due**  
 **Takda kerja ni solo flight:**  
 - [HackerOne Community](https://www.hackerone.com/) – Terima kasih untuk semua laporan inspirasional.  
