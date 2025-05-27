@@ -5,12 +5,12 @@
 
 **What I’m about:**  
 - 🛠️ **Membaiki** vulnerabilities karena sistem yang secure hak semua orang.  
-- 🔍 **Learning in public** – dokumentasi perjalanan hacking & secure coding [di sini](https://...).  
+- 🔍 **Learning in public** – dokumentasi perjalanan hacking & secure coding [di sini]  (https://...).  (coming soon)
 - 🤝 **Kolaborasi > kompetisi** – aku percaya komuniti kuat bila kita saling bantu.  
 
 **Current grind:**  
 - 🎯 **Hunting bugs** di platform open-source (dan sekali-sekala CTF untuk sharpening skills).  
-- 🔧 **Membangun** alat automasi *recon* untuk permulaan pentest (*biasa shared di GitHub!*).  
+- 🔧 **Membangun** alat automasi *recon* untuk permulaan pentest (*coming soon*).  
 - 📚 **Belajar** dari kesilapan sendiri (dan orang lain) – *mistakes are the OG teachers*.  
 
 ---
@@ -30,6 +30,6 @@
 **Jom connect!** Aku percaya kita boleh belajar sama-sama.  
 
 📫 **Let’s talk:**  
-[Email](mailto:faz.secure@example.com) | [LinkedIn](https://linkedin.com/in/f1x...)  
+[Email](mailto:F1xM4ster.secure@example.com) | [LinkedIn](https://linkedin.com/in/F1xM4ster)  
 
 *“Confidence bukan sebab aku tahu semua – tapi sebab aku tak malu belajar apa yang aku tak tahu.”* 🚀  
