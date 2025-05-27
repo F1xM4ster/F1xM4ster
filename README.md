@@ -1,38 +1,35 @@
-### 👋 Hai, Saya Yas (AKA F1xM4ster)  
-💻 **Dev** | 🔐 **Security Newbie** | 💡 **Knowledge Seeker**  
+### 👋 Hi, I’m Faz (F1xM4ster)  
+🔍 **Security Enthusiast** | 🐞 **Bug Hunter** | 🌱 **Knowledge Seeker**  
 
-**Prinsip Saya:**  
-*"Kod bukan sekadar jalan penyelesaian, tapi juga tanggungjawab."*  
+*"Flaws exist to teach us, not to shame us."*  
 
-Aku jenis yang:  
-- 🛠️ Sukar tidur kalau ada bug yang belum fixed,  
-- 📚 Obses baca dokumentasi & buku teknikal (sambil kopi teh o panas),  
-- 🤝 Percaya kolaborasi lebih baik dari solo grinding.  
+**What I’m about:**  
+- 🛠️ **Membaiki** vulnerabilities karena sistem yang secure hak semua orang.  
+- 🔍 **Learning in public** – dokumentasi perjalanan hacking & secure coding [di sini](https://...).  
+- 🤝 **Kolaborasi > kompetisi** – aku percaya komuniti kuat bila kita saling bantu.  
 
----
-
-### 🧩 What’s Cooking?  
-- **Sedang Belajar:** Container security & secure coding practices.  
-- **Projek Kecil-Kecilan:** CLI tool untuk audit kod (*coming soon!*).  
-- **Bacaan Sekarang:** "The Pragmatic Programmer" 📘 – *slow progress, tapi steady!*  
+**Current grind:**  
+- 🎯 **Hunting bugs** di platform open-source (dan sekali-sekala CTF untuk sharpening skills).  
+- 🔧 **Membangun** alat automasi *recon* untuk permulaan pentest (*biasa shared di GitHub!*).  
+- 📚 **Belajar** dari kesilapan sendiri (dan orang lain) – *mistakes are the OG teachers*.  
 
 ---
 
-### 🙌 Big Thanks To…  
-**No code is solo code!**  
-- [Komuniti Open-Source](https://opensource.org/) – Inspirasi tanpa henti! ✨
-- Mentor di [HackYourFuture](https://HackYourFuture) – Ajaran korang priceless!  
+### 🙏 **Credits Where It’s Due**  
+**Takda kerja ni solo flight:**  
+- [HackerOne Community](https://www.hackerone.com/) – Terima kasih untuk semua laporan inspirasional.  
+- Mentor di [TryHackMe](https://tryhackme.com/) – Ajaran korang *next level*.  
 
 ---
 
-### 💬 Jom Connect!  
-Kalau kau:  
-- 💡 Ada idea untuk project komuniti (dev tools / security),  
-- 🐛 Nak brainstorm cara fix bug pelik,  
-- ☕ Sembang random pasal life as dev...  
+### 🤝 **Kalau Kau Suka…**  
+- 💡 **Idea kolaborasi** untuk tool/dev yang secure-by-design,  
+- 🧩 **Brainstorm** cara fix vuln yang tricky,  
+- ☕ **Sembang santai** pasal *life as a security newbie*…  
 
-**Aku selalu online!**  
+**Jom connect!** Aku percaya kita boleh belajar sama-sama.  
 
-📩 **Contact:** [Email](mailto:F1xM4ster@example.com) | [LinkedIn](https://linkedin.com/in/F1xM4ster)  
+📫 **Let’s talk:**  
+[Email](mailto:faz.secure@example.com) | [LinkedIn](https://linkedin.com/in/f1x...)  
 
-*"Ilmu tu macam kentang goreng – lagi best kalau kongsi sama-sama."* 🍟  
+*“Confidence bukan sebab aku tahu semua – tapi sebab aku tak malu belajar apa yang aku tak tahu.”* 🚀  
