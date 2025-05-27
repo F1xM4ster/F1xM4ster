@@ -6,7 +6,7 @@
 
 Aku jenis yang:  
 - 🛠️ Sukar tidur kalau ada bug yang belum fixed,  
-- 📚 Obses baca dokumentasi & buku teknikal (sambil kopi o panas),  
+- 📚 Obses baca dokumentasi & buku teknikal (sambil kopi teh o panas),  
 - 🤝 Percaya kolaborasi lebih baik dari solo grinding.  
 
 ---
