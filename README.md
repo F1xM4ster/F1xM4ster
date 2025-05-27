@@ -1,4 +1,4 @@
-### 👋 Hai, Saya Faz (AKA F1xM4ster)  
+### 👋 Hai, Saya Yas (AKA F1xM4ster)  
 💻 **Dev** | 🔐 **Security Newbie** | 💡 **Knowledge Seeker**  
 
 **Prinsip Saya:**  
@@ -20,8 +20,8 @@ Aku jenis yang:
 
 ### 🙌 Big Thanks To…  
 **No code is solo code!**  
-- [Komuniti Open-Source](https://opensource.org/) – You guys rock! 🤘  
-- Mentor di [HackYourFuture](https://...) – Ajaran korang priceless!  
+- [Komuniti Open-Source](https://opensource.org/) – Inspirasi tanpa henti! ✨
+- Mentor di [HackYourFuture](https://HackYourFuture) – Ajaran korang priceless!  
 
 ---
 
@@ -33,6 +33,6 @@ Kalau kau:
 
 **Aku selalu online!**  
 
-📩 **Contact:** [Email](mailto:faz@example.com) | [LinkedIn](https://linkedin.com/in/f1x...)  
+📩 **Contact:** [Email](mailto:F1xM4ster@example.com) | [LinkedIn](https://linkedin.com/in/F1xM4ster)  
 
 *"Ilmu tu macam kentang goreng – lagi best kalau kongsi sama-sama."* 🍟  
