@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Yas (F1xM4ster)  
+### 👋 Hi, I’m Yas AKA F1xM4ster
 🔍 **Security Enthusiast** | 🐞 **Bug Hunter** | 🌱 **Knowledge Seeker**  
 
 *"Flaws exist to teach us, not to shame us."*  
@@ -38,15 +38,10 @@
 ### 🤝 **Kalau Kau Suka…**  
 - 💡 **Idea kolaborasi** untuk tool/dev yang secure-by-design,  
 - 🧩 **Brainstorm** cara fix vuln yang tricky,  
-- ☕ **Sembang santai** pasal *life as a security newbie*…
+- ☕ **Sembang santai** pasal *life as a security newbie & bug bounty life*…
 
 ---
-
-### 🤝 **Let’s Secure the Matrix!**  
-Kalau kau:  
-- 🐛 Ada *bug* pelik nak discuss (atau nak collab untuk CTF),  
-- 🔒 Nak belajar *ethical hacking* dari scratch,  
-- ☕ Sembang random pasal *bug bounty life*...  
+  
 
 **Jom connect!** Aku percaya kita boleh belajar sama-sama.  
 
